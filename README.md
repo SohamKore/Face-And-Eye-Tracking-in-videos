@@ -4,7 +4,7 @@ Enables you to track faces and eyes in a video of people, determines the number 
 # RUN THE SCRIPT:
 
 Here are the simplified steps to run the provided code:
-0. Download script file and video (you can use your own videos)
+* Download script file and video (you can use your own videos)
 1. Install OpenCV by running `pip install opencv-python` in your command prompt or terminal.
 2. Run the Python script using `python FaceTrackingV3.py` in the command prompt or terminal.
 3. The script will open a window showing the video with face and eye tracking.
