@@ -13,8 +13,11 @@ Here are the simplified steps to run the provided code:
 * Download : <a href="https://github.com/SohamKore/Face-And-Eye-Tracking-in-videos/archive/refs/heads/main.zip">Main.zip</a>
 1. Install OpenCV by running `pip install opencv-python` in your command prompt or terminal.
 2. Run the Python script using `python FaceTrackingV3.py` in the command prompt or terminal.
-3. The script will open a window showing the video with face and eye tracking.
-4. The number of people detected and their eye gaze direction will be displayed.
-5. Press the 'q' key to exit the program.
+3. If you encounter a "File not found" error for the video, replace the video_path variable with the full absolute path to your video file.
+4. The script will open a window showing the video with face and eye tracking.
+5. The number of people detected and their eye gaze direction will be displayed.
+6. Press the 'q' key to exit the program.
 
 Make sure you have OpenCV installed, the XML files downloaded, and the video file path correctly specified to run the code successfully.
+
+
