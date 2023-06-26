@@ -1,6 +1,11 @@
 # Face-And-Eye-Tracking-in-videos
 Enables you to track faces and eyes in a video of people, determines the number of people in the video, and also identifies the direction where each person is looking.
 
+# Screenshots
+
+![Screenshot 2023-06-27 002856](https://github.com/SohamKore/Face-And-Eye-Tracking-in-videos/assets/119067189/39b4d9e7-906d-46f7-a638-5b4993ddf67f)
+![Screenshot 2023-06-27 002836](https://github.com/SohamKore/Face-And-Eye-Tracking-in-videos/assets/119067189/b2e2f745-2150-401d-ac74-a68b22e7bd1d)
+
 # RUN THE SCRIPT:
 
 Here are the simplified steps to run the provided code:
